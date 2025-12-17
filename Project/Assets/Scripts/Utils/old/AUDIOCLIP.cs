@@ -1,0 +1,35 @@
+public enum AUDIOCLIP
+{
+    AllClearBgm,
+    BounsBgm,
+    calc_score_sroll,
+    CalcBgm,
+    continue_cout_down,
+    count_down,
+    DemoBgm,
+    ejection_shell,
+    GameBgm,
+    get_achievement,
+    get_score,
+    get_star,
+    hit_target,
+    input_ui,
+    InputBgm,
+    loading,
+    logo,
+    rank,
+    reload,
+    shoot,
+    start_on,
+    target_break,
+    target_on,
+    insert_coin,
+    target_error,
+    rank_star,
+    rank_item,
+    tips,
+    RankBgm,
+
+}
+
+

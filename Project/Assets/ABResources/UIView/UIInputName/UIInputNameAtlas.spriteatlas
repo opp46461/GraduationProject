@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: UIInputNameAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 21300000, guid: 53cefe2f1ceb6114bb233abb959b4747, type: 3}
+    - {fileID: 21300000, guid: 030d641b3327e314fb0e3723ca88058e, type: 3}
+    - {fileID: 21300000, guid: f326d7e57603d6c41b79d3d0447ed448, type: 3}
+    - {fileID: 21300000, guid: 40bc92530e741024da78273c7b7e4ae0, type: 3}
+    - {fileID: 21300000, guid: 896340b1643da464d94c34329d6f0a45, type: 3}
+    - {fileID: 21300000, guid: 77dc22cc2aa811442afd46ab0205d615, type: 3}
+    - {fileID: 21300000, guid: 704d7cbc081444d4cad3bb5a27c62b55, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+    packedSpriteRenderDataKeys:
+    - 896340b1643da464d94c34329d6f0a45: 21300000
+    - 40bc92530e741024da78273c7b7e4ae0: 21300000
+    - f326d7e57603d6c41b79d3d0447ed448: 21300000
+    - 030d641b3327e314fb0e3723ca88058e: 21300000
+    - 704d7cbc081444d4cad3bb5a27c62b55: 21300000
+    - 77dc22cc2aa811442afd46ab0205d615: 21300000
+    - 53cefe2f1ceb6114bb233abb959b4747: 21300000
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 896340b1643da464d94c34329d6f0a45, type: 3}
+  - {fileID: 21300000, guid: 40bc92530e741024da78273c7b7e4ae0, type: 3}
+  - {fileID: 21300000, guid: f326d7e57603d6c41b79d3d0447ed448, type: 3}
+  - {fileID: 21300000, guid: 030d641b3327e314fb0e3723ca88058e, type: 3}
+  - {fileID: 21300000, guid: 704d7cbc081444d4cad3bb5a27c62b55, type: 3}
+  - {fileID: 21300000, guid: 77dc22cc2aa811442afd46ab0205d615, type: 3}
+  - {fileID: 21300000, guid: 53cefe2f1ceb6114bb233abb959b4747, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - key
+  - del
+  - space
+  - ok
+  - nameBG
+  - keyPress
+  - "\u952E\u76D8bg"
+  m_RenderDataMap: {}
+  m_Tag: UIInputNameAtlas
+  m_IsVariant: 0

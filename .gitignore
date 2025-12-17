@@ -1,0 +1,73 @@
+# 具体忽略可参考： https://github.com/github/gitignore/blob/main/Unity.gitignore
+##############################################
+# 案例：
+#   全局（忽略全部该文件夹）：Library/
+#   根目录（忽略根目录文件夹）：/Library/
+#   一级目录（忽略一级目录所有该文件夹）：/*/Library/  → 比如： /LOL/Library/
+##############################################
+##############################################
+# 一般规则：
+#   1. git 的根目录不存放 unity 工程、存放项目相关文件夹 → gitRoot/LOL
+#   2. 项目相关文件夹存放 一个或者多个 unity 工程
+#       2.1 一个时 → gitRoot/LOL/LOL 、 gitRoot/LOL/产品需求 、 gitRoot/LOL/美术文件 、 gitRoot/LOL/开发辅助文档
+#       2.2 多个时 → gitRoot/LOL/LOL/Normal
+#           2.2.1 gitRoot/LOL/Normal 、 gitRoot/LOL/Normal/产品需求 、 gitRoot/LOL/Normal/美术文件 、 gitRoot/LOL/Normal/开发辅助文档
+#           2.2.2 gitRoot/LOL/TeamfightTactics 、 gitRoot/LOL/TeamfightTactics/产品需求 、 gitRoot/LOL/TeamfightTactics/美术文件 、 gitRoot/LOL/TeamfightTactics/开发辅助文档
+##############################################
+
+
+##############################################
+# 一级子目录中的忽略规则
+##############################################
+
+# 一级目录中的核心忽略
+/*/Release/
+/*/.vs/
+/*/.idea/
+/*/Library/
+/*/Temp/
+/*/obj/
+/*/builds/
+/*/ServerData/
+/*/Logs/
+/*/Test/
+/*/Build/
+/*/.vsconfig
+
+# 一级目录中的用户设置
+/*/UserSettings/Layouts/
+/*/UserSettings/EditorUserSettings.asset
+
+##############################################
+# 二级子目录中的忽略规则
+##############################################
+
+# 二级目录中的核心忽略
+/*/*/Release/
+/*/*/.vs/
+/*/*/.idea/
+/*/*/Library/
+/*/*/Temp/
+/*/*/obj/
+/*/*/builds/
+/*/*/ServerData/
+/*/*/Logs/
+/*/*/Test/
+/*/*/Build/
+/*/*/.vsconfig
+
+# 二级目录中的用户设置
+/*/*/UserSettings/Layouts/
+/*/*/UserSettings/EditorUserSettings.asset
+
+##############################################
+# 全局文件类型忽略（任何位置）
+##############################################
+
+# 工程文件（任何位置）
+*.csproj
+*.sln
+
+# 系统文件
+.DS_Store
+Thumbs.db
