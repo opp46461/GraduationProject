@@ -1,0 +1,228 @@
+[
+  {
+    "assetPath": "assets/abresources/uiview/uidebug/uidebug.prefab",
+    "bundleName": "uidebug",
+    "directDependencies": [
+      "Packages/com.unity.textmeshpro/Scripts/Runtime/TextMeshProUGUI.cs",
+      "Assets/Packages/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset"
+    ],
+    "allDependencies": [
+      "Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Font Asset Icon.psd",
+      "Packages/com.unity.textmeshpro/Scripts/Runtime/TextMeshProUGUI.cs",
+      "Assets/Packages/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader",
+      "Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Text Component Icon.psd",
+      "Assets/Packages/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset",
+      "Packages/com.unity.textmeshpro/Scripts/Runtime/TMP_FontAsset.cs",
+      "Assets/ABResources/UIView/UIDebug/UIDebug.prefab",
+      "Assets/Packages/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset",
+      "Assets/Packages/TextMesh Pro/Fonts/LiberationSans.ttf"
+    ],
+    "AssetNameValue": "uidebug",
+    "AssetPath": "assets/abresources/uiview/uidebug/uidebug.prefab",
+    "BundleName": "uidebug",
+    "DirectDependencies": [
+      "Packages/com.unity.textmeshpro/Scripts/Runtime/TextMeshProUGUI.cs",
+      "Assets/Packages/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset"
+    ],
+    "AllDependencies": [
+      "Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Font Asset Icon.psd",
+      "Packages/com.unity.textmeshpro/Scripts/Runtime/TextMeshProUGUI.cs",
+      "Assets/Packages/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader",
+      "Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Text Component Icon.psd",
+      "Assets/Packages/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset",
+      "Packages/com.unity.textmeshpro/Scripts/Runtime/TMP_FontAsset.cs",
+      "Assets/ABResources/UIView/UIDebug/UIDebug.prefab",
+      "Assets/Packages/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset",
+      "Assets/Packages/TextMesh Pro/Fonts/LiberationSans.ttf"
+    ]
+  },
+  {
+    "assetPath": "assets/abresources/uiview/uiglobaltips/uiglobaltips.prefab",
+    "bundleName": "uiglobaltips",
+    "directDependencies": [
+      "Packages/com.unity.textmeshpro/Scripts/Runtime/TextMeshProUGUI.cs",
+      "Packages/com.unity.ugui/Runtime/UI/Core/Image.cs",
+      "Assets/Packages/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset"
+    ],
+    "allDependencies": [
+      "Assets/ABResources/UIView/UIGlobalTips/UIGlobalTips.prefab",
+      "Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Font Asset Icon.psd",
+      "Packages/com.unity.textmeshpro/Scripts/Runtime/TextMeshProUGUI.cs",
+      "Assets/Packages/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader",
+      "Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Text Component Icon.psd",
+      "Assets/Packages/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset",
+      "Packages/com.unity.ugui/Runtime/UI/Core/Image.cs",
+      "Packages/com.unity.textmeshpro/Scripts/Runtime/TMP_FontAsset.cs",
+      "Assets/Packages/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset",
+      "Assets/Packages/TextMesh Pro/Fonts/LiberationSans.ttf"
+    ],
+    "AssetNameValue": "uiglobaltips",
+    "AssetPath": "assets/abresources/uiview/uiglobaltips/uiglobaltips.prefab",
+    "BundleName": "uiglobaltips",
+    "DirectDependencies": [
+      "Packages/com.unity.textmeshpro/Scripts/Runtime/TextMeshProUGUI.cs",
+      "Packages/com.unity.ugui/Runtime/UI/Core/Image.cs",
+      "Assets/Packages/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset"
+    ],
+    "AllDependencies": [
+      "Assets/ABResources/UIView/UIGlobalTips/UIGlobalTips.prefab",
+      "Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Font Asset Icon.psd",
+      "Packages/com.unity.textmeshpro/Scripts/Runtime/TextMeshProUGUI.cs",
+      "Assets/Packages/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader",
+      "Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Text Component Icon.psd",
+      "Assets/Packages/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset",
+      "Packages/com.unity.ugui/Runtime/UI/Core/Image.cs",
+      "Packages/com.unity.textmeshpro/Scripts/Runtime/TMP_FontAsset.cs",
+      "Assets/Packages/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset",
+      "Assets/Packages/TextMesh Pro/Fonts/LiberationSans.ttf"
+    ]
+  },
+  {
+    "assetPath": "assets/abresources/uiview/uiglobaltips/uiglobaltipsatlas.spriteatlas",
+    "bundleName": "uiglobaltips",
+    "directDependencies": [],
+    "allDependencies": [
+      "Assets/ABResources/UIView/UIGlobalTips/UIGlobalTipsAtlas.spriteatlas"
+    ],
+    "AssetNameValue": "uiglobaltipsatlas",
+    "AssetPath": "assets/abresources/uiview/uiglobaltips/uiglobaltipsatlas.spriteatlas",
+    "BundleName": "uiglobaltips",
+    "DirectDependencies": [],
+    "AllDependencies": [
+      "Assets/ABResources/UIView/UIGlobalTips/UIGlobalTipsAtlas.spriteatlas"
+    ]
+  },
+  {
+    "assetPath": "assets/abresources/uiview/uiinputname/uiinputname.prefab",
+    "bundleName": "uiinputname",
+    "directDependencies": [
+      "Packages/com.unity.ugui/Runtime/UI/Core/Layout/HorizontalLayoutGroup.cs",
+      "Packages/com.unity.textmeshpro/Scripts/Runtime/TextMeshProUGUI.cs",
+      "Packages/com.unity.ugui/Runtime/UI/Core/Image.cs",
+      "Assets/Packages/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset"
+    ],
+    "allDependencies": [
+      "Packages/com.unity.ugui/Runtime/UI/Core/Layout/HorizontalLayoutGroup.cs",
+      "Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Font Asset Icon.psd",
+      "Packages/com.unity.textmeshpro/Scripts/Runtime/TextMeshProUGUI.cs",
+      "Assets/ABResources/UIView/UIInputName/UIInputName.prefab",
+      "Assets/Packages/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader",
+      "Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Text Component Icon.psd",
+      "Assets/Packages/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset",
+      "Packages/com.unity.ugui/Runtime/UI/Core/Image.cs",
+      "Packages/com.unity.textmeshpro/Scripts/Runtime/TMP_FontAsset.cs",
+      "Assets/Packages/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset",
+      "Assets/Packages/TextMesh Pro/Fonts/LiberationSans.ttf"
+    ],
+    "AssetNameValue": "uiinputname",
+    "AssetPath": "assets/abresources/uiview/uiinputname/uiinputname.prefab",
+    "BundleName": "uiinputname",
+    "DirectDependencies": [
+      "Packages/com.unity.ugui/Runtime/UI/Core/Layout/HorizontalLayoutGroup.cs",
+      "Packages/com.unity.textmeshpro/Scripts/Runtime/TextMeshProUGUI.cs",
+      "Packages/com.unity.ugui/Runtime/UI/Core/Image.cs",
+      "Assets/Packages/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset"
+    ],
+    "AllDependencies": [
+      "Packages/com.unity.ugui/Runtime/UI/Core/Layout/HorizontalLayoutGroup.cs",
+      "Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Font Asset Icon.psd",
+      "Packages/com.unity.textmeshpro/Scripts/Runtime/TextMeshProUGUI.cs",
+      "Assets/ABResources/UIView/UIInputName/UIInputName.prefab",
+      "Assets/Packages/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader",
+      "Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Text Component Icon.psd",
+      "Assets/Packages/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset",
+      "Packages/com.unity.ugui/Runtime/UI/Core/Image.cs",
+      "Packages/com.unity.textmeshpro/Scripts/Runtime/TMP_FontAsset.cs",
+      "Assets/Packages/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset",
+      "Assets/Packages/TextMesh Pro/Fonts/LiberationSans.ttf"
+    ]
+  },
+  {
+    "assetPath": "assets/abresources/uiview/uiinputname/uiinputnameatlas.spriteatlas",
+    "bundleName": "uiinputname",
+    "directDependencies": [],
+    "allDependencies": [
+      "Assets/ABResources/UIView/UIInputName/UIInputNameAtlas.spriteatlas"
+    ],
+    "AssetNameValue": "uiinputnameatlas",
+    "AssetPath": "assets/abresources/uiview/uiinputname/uiinputnameatlas.spriteatlas",
+    "BundleName": "uiinputname",
+    "DirectDependencies": [],
+    "AllDependencies": [
+      "Assets/ABResources/UIView/UIInputName/UIInputNameAtlas.spriteatlas"
+    ]
+  },
+  {
+    "assetPath": "assets/abresources/uiview/uitransition/uitransition.prefab",
+    "bundleName": "uitransition",
+    "directDependencies": [
+      "Packages/com.unity.ugui/Runtime/UI/Core/Image.cs"
+    ],
+    "allDependencies": [
+      "Assets/ABResources/UIView/UITransition/UITransition.prefab",
+      "Packages/com.unity.ugui/Runtime/UI/Core/Image.cs"
+    ],
+    "AssetNameValue": "uitransition",
+    "AssetPath": "assets/abresources/uiview/uitransition/uitransition.prefab",
+    "BundleName": "uitransition",
+    "DirectDependencies": [
+      "Packages/com.unity.ugui/Runtime/UI/Core/Image.cs"
+    ],
+    "AllDependencies": [
+      "Assets/ABResources/UIView/UITransition/UITransition.prefab",
+      "Packages/com.unity.ugui/Runtime/UI/Core/Image.cs"
+    ]
+  },
+  {
+    "assetPath": "assets/abresources/common/materials/black.mat",
+    "bundleName": "common",
+    "directDependencies": [],
+    "allDependencies": [
+      "Assets/ABResources/Common/Materials/Black.mat"
+    ],
+    "AssetNameValue": "black",
+    "AssetPath": "assets/abresources/common/materials/black.mat",
+    "BundleName": "common",
+    "DirectDependencies": [],
+    "AllDependencies": [
+      "Assets/ABResources/Common/Materials/Black.mat"
+    ]
+  },
+  {
+    "assetPath": "assets/abresources/common/prefabs/ui_manager.prefab",
+    "bundleName": "common",
+    "directDependencies": [
+      "Packages/com.unity.ugui/Runtime/UI/Core/Layout/CanvasScaler.cs",
+      "Packages/com.unity.ugui/Runtime/UI/Core/RawImage.cs",
+      "Packages/com.unity.ugui/Runtime/UI/Core/GraphicRaycaster.cs",
+      "Packages/com.unity.ugui/Runtime/EventSystem/EventSystem.cs",
+      "Packages/com.unity.ugui/Runtime/EventSystem/InputModules/StandaloneInputModule.cs"
+    ],
+    "allDependencies": [
+      "Packages/com.unity.ugui/Runtime/UI/Core/Layout/CanvasScaler.cs",
+      "Packages/com.unity.ugui/Runtime/UI/Core/RawImage.cs",
+      "Packages/com.unity.ugui/Runtime/UI/Core/GraphicRaycaster.cs",
+      "Packages/com.unity.ugui/Runtime/EventSystem/InputModules/StandaloneInputModule.cs",
+      "Packages/com.unity.ugui/Runtime/EventSystem/EventSystem.cs",
+      "Assets/ABResources/Common/Prefabs/UI_Manager.prefab"
+    ],
+    "AssetNameValue": "ui_manager",
+    "AssetPath": "assets/abresources/common/prefabs/ui_manager.prefab",
+    "BundleName": "common",
+    "DirectDependencies": [
+      "Packages/com.unity.ugui/Runtime/UI/Core/Layout/CanvasScaler.cs",
+      "Packages/com.unity.ugui/Runtime/UI/Core/RawImage.cs",
+      "Packages/com.unity.ugui/Runtime/UI/Core/GraphicRaycaster.cs",
+      "Packages/com.unity.ugui/Runtime/EventSystem/EventSystem.cs",
+      "Packages/com.unity.ugui/Runtime/EventSystem/InputModules/StandaloneInputModule.cs"
+    ],
+    "AllDependencies": [
+      "Packages/com.unity.ugui/Runtime/UI/Core/Layout/CanvasScaler.cs",
+      "Packages/com.unity.ugui/Runtime/UI/Core/RawImage.cs",
+      "Packages/com.unity.ugui/Runtime/UI/Core/GraphicRaycaster.cs",
+      "Packages/com.unity.ugui/Runtime/EventSystem/InputModules/StandaloneInputModule.cs",
+      "Packages/com.unity.ugui/Runtime/EventSystem/EventSystem.cs",
+      "Assets/ABResources/Common/Prefabs/UI_Manager.prefab"
+    ]
+  }
+]

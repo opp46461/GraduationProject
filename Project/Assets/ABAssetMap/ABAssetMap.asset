@@ -1,0 +1,125 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 80ed30f048b4c1640bbce156d696ce00, type: 3}
+  m_Name: ABAssetMap
+  m_EditorClassIdentifier: 
+  showMappings:
+  - showName: "AB\uFF1Auidebug \u2192 \u8D44\u6E90\u6807\u7B7E\uFF1Auidebug"
+    assetPath: assets/abresources/uiview/uidebug/uidebug.prefab
+    bundleName: uidebug
+    directDependencies:
+    - Packages/com.unity.textmeshpro/Scripts/Runtime/TextMeshProUGUI.cs
+    - Assets/Packages/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset
+    allDependencies:
+    - Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Font Asset Icon.psd
+    - Packages/com.unity.textmeshpro/Scripts/Runtime/TextMeshProUGUI.cs
+    - Assets/Packages/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader
+    - Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Text Component
+      Icon.psd
+    - Assets/Packages/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF
+      - Fallback.asset
+    - Packages/com.unity.textmeshpro/Scripts/Runtime/TMP_FontAsset.cs
+    - Assets/ABResources/UIView/UIDebug/UIDebug.prefab
+    - Assets/Packages/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset
+    - Assets/Packages/TextMesh Pro/Fonts/LiberationSans.ttf
+    assetName: uidebug
+  - showName: "AB\uFF1Auiglobaltips \u2192 \u8D44\u6E90\u6807\u7B7E\uFF1Auiglobaltips"
+    assetPath: assets/abresources/uiview/uiglobaltips/uiglobaltips.prefab
+    bundleName: uiglobaltips
+    directDependencies:
+    - Packages/com.unity.textmeshpro/Scripts/Runtime/TextMeshProUGUI.cs
+    - Packages/com.unity.ugui/Runtime/UI/Core/Image.cs
+    - Assets/Packages/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset
+    allDependencies:
+    - Assets/ABResources/UIView/UIGlobalTips/UIGlobalTips.prefab
+    - Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Font Asset Icon.psd
+    - Packages/com.unity.textmeshpro/Scripts/Runtime/TextMeshProUGUI.cs
+    - Assets/Packages/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader
+    - Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Text Component
+      Icon.psd
+    - Assets/Packages/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF
+      - Fallback.asset
+    - Packages/com.unity.ugui/Runtime/UI/Core/Image.cs
+    - Packages/com.unity.textmeshpro/Scripts/Runtime/TMP_FontAsset.cs
+    - Assets/Packages/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset
+    - Assets/Packages/TextMesh Pro/Fonts/LiberationSans.ttf
+    assetName: uiglobaltips
+  - showName: "AB\uFF1Auiglobaltips \u2192 \u8D44\u6E90\u6807\u7B7E\uFF1Auiglobaltipsatlas"
+    assetPath: assets/abresources/uiview/uiglobaltips/uiglobaltipsatlas.spriteatlas
+    bundleName: uiglobaltips
+    directDependencies: []
+    allDependencies:
+    - Assets/ABResources/UIView/UIGlobalTips/UIGlobalTipsAtlas.spriteatlas
+    assetName: uiglobaltipsatlas
+  - showName: "AB\uFF1Auiinputname \u2192 \u8D44\u6E90\u6807\u7B7E\uFF1Auiinputname"
+    assetPath: assets/abresources/uiview/uiinputname/uiinputname.prefab
+    bundleName: uiinputname
+    directDependencies:
+    - Packages/com.unity.ugui/Runtime/UI/Core/Layout/HorizontalLayoutGroup.cs
+    - Packages/com.unity.textmeshpro/Scripts/Runtime/TextMeshProUGUI.cs
+    - Packages/com.unity.ugui/Runtime/UI/Core/Image.cs
+    - Assets/Packages/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset
+    allDependencies:
+    - Packages/com.unity.ugui/Runtime/UI/Core/Layout/HorizontalLayoutGroup.cs
+    - Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Font Asset Icon.psd
+    - Packages/com.unity.textmeshpro/Scripts/Runtime/TextMeshProUGUI.cs
+    - Assets/ABResources/UIView/UIInputName/UIInputName.prefab
+    - Assets/Packages/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader
+    - Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Text Component
+      Icon.psd
+    - Assets/Packages/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF
+      - Fallback.asset
+    - Packages/com.unity.ugui/Runtime/UI/Core/Image.cs
+    - Packages/com.unity.textmeshpro/Scripts/Runtime/TMP_FontAsset.cs
+    - Assets/Packages/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset
+    - Assets/Packages/TextMesh Pro/Fonts/LiberationSans.ttf
+    assetName: uiinputname
+  - showName: "AB\uFF1Auiinputname \u2192 \u8D44\u6E90\u6807\u7B7E\uFF1Auiinputnameatlas"
+    assetPath: assets/abresources/uiview/uiinputname/uiinputnameatlas.spriteatlas
+    bundleName: uiinputname
+    directDependencies: []
+    allDependencies:
+    - Assets/ABResources/UIView/UIInputName/UIInputNameAtlas.spriteatlas
+    assetName: uiinputnameatlas
+  - showName: "AB\uFF1Auitransition \u2192 \u8D44\u6E90\u6807\u7B7E\uFF1Auitransition"
+    assetPath: assets/abresources/uiview/uitransition/uitransition.prefab
+    bundleName: uitransition
+    directDependencies:
+    - Packages/com.unity.ugui/Runtime/UI/Core/Image.cs
+    allDependencies:
+    - Assets/ABResources/UIView/UITransition/UITransition.prefab
+    - Packages/com.unity.ugui/Runtime/UI/Core/Image.cs
+    assetName: uitransition
+  - showName: "AB\uFF1Acommon \u2192 \u8D44\u6E90\u6807\u7B7E\uFF1Ablack"
+    assetPath: assets/abresources/common/materials/black.mat
+    bundleName: common
+    directDependencies: []
+    allDependencies:
+    - Assets/ABResources/Common/Materials/Black.mat
+    assetName: black
+  - showName: "AB\uFF1Acommon \u2192 \u8D44\u6E90\u6807\u7B7E\uFF1Aui_manager"
+    assetPath: assets/abresources/common/prefabs/ui_manager.prefab
+    bundleName: common
+    directDependencies:
+    - Packages/com.unity.ugui/Runtime/UI/Core/Layout/CanvasScaler.cs
+    - Packages/com.unity.ugui/Runtime/UI/Core/RawImage.cs
+    - Packages/com.unity.ugui/Runtime/UI/Core/GraphicRaycaster.cs
+    - Packages/com.unity.ugui/Runtime/EventSystem/EventSystem.cs
+    - Packages/com.unity.ugui/Runtime/EventSystem/InputModules/StandaloneInputModule.cs
+    allDependencies:
+    - Packages/com.unity.ugui/Runtime/UI/Core/Layout/CanvasScaler.cs
+    - Packages/com.unity.ugui/Runtime/UI/Core/RawImage.cs
+    - Packages/com.unity.ugui/Runtime/UI/Core/GraphicRaycaster.cs
+    - Packages/com.unity.ugui/Runtime/EventSystem/InputModules/StandaloneInputModule.cs
+    - Packages/com.unity.ugui/Runtime/EventSystem/EventSystem.cs
+    - Assets/ABResources/Common/Prefabs/UI_Manager.prefab
+    assetName: ui_manager
